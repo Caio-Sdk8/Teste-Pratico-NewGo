@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\newgo\testePratico\bin\Debug\net8.0\testePratico.exe
+C:\Users\Usuário\Desktop\newgo\testePratico\bin\Debug\net8.0\testePratico.deps.json
+C:\Users\Usuário\Desktop\newgo\testePratico\bin\Debug\net8.0\testePratico.runtimeconfig.json
+C:\Users\Usuário\Desktop\newgo\testePratico\bin\Debug\net8.0\testePratico.dll
+C:\Users\Usuário\Desktop\newgo\testePratico\bin\Debug\net8.0\testePratico.pdb
+C:\Users\Usuário\Desktop\newgo\testePratico\obj\Debug\net8.0\testePratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\newgo\testePratico\obj\Debug\net8.0\testePratico.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\newgo\testePratico\obj\Debug\net8.0\testePratico.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\newgo\testePratico\obj\Debug\net8.0\testePratico.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\newgo\testePratico\obj\Debug\net8.0\testePratico.sourcelink.json
+C:\Users\Usuário\Desktop\newgo\testePratico\obj\Debug\net8.0\testePratico.dll
+C:\Users\Usuário\Desktop\newgo\testePratico\obj\Debug\net8.0\refint\testePratico.dll
+C:\Users\Usuário\Desktop\newgo\testePratico\obj\Debug\net8.0\testePratico.pdb
+C:\Users\Usuário\Desktop\newgo\testePratico\obj\Debug\net8.0\testePratico.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\newgo\testePratico\obj\Debug\net8.0\ref\testePratico.dll
